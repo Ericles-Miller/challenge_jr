@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="ChallengeJr.Api/ChallengeJr.Api.csproj" />
+  <Project Path="ChallengeJr.Application/ChallengeJr.Application.csproj" />
+  <Project Path="ChallengeJr.Domain/ChallengeJr.Domain.csproj" />
+  <Project Path="ChallengeJr.Infra/ChallengeJr.Infra.csproj" />
+  <Project Path="ChallengeJr.IoC/ChallengeJr.IoC.csproj" />
+</Solution>

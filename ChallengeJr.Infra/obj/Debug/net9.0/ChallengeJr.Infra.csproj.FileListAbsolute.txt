@@ -1,0 +1,17 @@
+/Users/ericlesmiller/Documents/GitHub/study/challenge_jr/ChallengeJr.Infra/bin/Debug/net9.0/ChallengeJr.Infra.deps.json
+/Users/ericlesmiller/Documents/GitHub/study/challenge_jr/ChallengeJr.Infra/bin/Debug/net9.0/ChallengeJr.Infra.dll
+/Users/ericlesmiller/Documents/GitHub/study/challenge_jr/ChallengeJr.Infra/bin/Debug/net9.0/ChallengeJr.Infra.pdb
+/Users/ericlesmiller/Documents/GitHub/study/challenge_jr/ChallengeJr.Infra/bin/Debug/net9.0/ChallengeJr.Application.dll
+/Users/ericlesmiller/Documents/GitHub/study/challenge_jr/ChallengeJr.Infra/bin/Debug/net9.0/ChallengeJr.Domain.dll
+/Users/ericlesmiller/Documents/GitHub/study/challenge_jr/ChallengeJr.Infra/bin/Debug/net9.0/ChallengeJr.Domain.pdb
+/Users/ericlesmiller/Documents/GitHub/study/challenge_jr/ChallengeJr.Infra/bin/Debug/net9.0/ChallengeJr.Application.pdb
+/Users/ericlesmiller/Documents/GitHub/study/challenge_jr/ChallengeJr.Infra/obj/Debug/net9.0/ChallengeJr.Infra.csproj.AssemblyReference.cache
+/Users/ericlesmiller/Documents/GitHub/study/challenge_jr/ChallengeJr.Infra/obj/Debug/net9.0/ChallengeJr.Infra.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ericlesmiller/Documents/GitHub/study/challenge_jr/ChallengeJr.Infra/obj/Debug/net9.0/ChallengeJr.Infra.AssemblyInfoInputs.cache
+/Users/ericlesmiller/Documents/GitHub/study/challenge_jr/ChallengeJr.Infra/obj/Debug/net9.0/ChallengeJr.Infra.AssemblyInfo.cs
+/Users/ericlesmiller/Documents/GitHub/study/challenge_jr/ChallengeJr.Infra/obj/Debug/net9.0/ChallengeJr.Infra.csproj.CoreCompileInputs.cache
+/Users/ericlesmiller/Documents/GitHub/study/challenge_jr/ChallengeJr.Infra/obj/Debug/net9.0/Challeng.67932E3B.Up2Date
+/Users/ericlesmiller/Documents/GitHub/study/challenge_jr/ChallengeJr.Infra/obj/Debug/net9.0/ChallengeJr.Infra.dll
+/Users/ericlesmiller/Documents/GitHub/study/challenge_jr/ChallengeJr.Infra/obj/Debug/net9.0/refint/ChallengeJr.Infra.dll
+/Users/ericlesmiller/Documents/GitHub/study/challenge_jr/ChallengeJr.Infra/obj/Debug/net9.0/ChallengeJr.Infra.pdb
+/Users/ericlesmiller/Documents/GitHub/study/challenge_jr/ChallengeJr.Infra/obj/Debug/net9.0/ref/ChallengeJr.Infra.dll

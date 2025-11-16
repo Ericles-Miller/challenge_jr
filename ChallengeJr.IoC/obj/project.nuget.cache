@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "R1kmC5hZW8E=",
+  "success": true,
+  "projectFilePath": "/Users/ericlesmiller/Documents/GitHub/study/challenge_jr/ChallengeJr.IoC/ChallengeJr.IoC.csproj",
+  "expectedPackageFiles": [
+    "/Users/ericlesmiller/.nuget/packages/microsoft.netcore.app.ref/9.0.11/microsoft.netcore.app.ref.9.0.11.nupkg.sha512",
+    "/Users/ericlesmiller/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.11/microsoft.aspnetcore.app.ref.9.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
