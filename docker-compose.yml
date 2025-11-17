@@ -1,0 +1,40 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:15
+    container_name: challengejr-postgres
+    restart: always
+    environment:
+      POSTGRES_DB: challengejr_dev
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./init-scripts:/docker-entrypoint-initdb.d
+    networks:
+      - challengejr-network
+
+  pgadmin:
+    image: dpage/pgadmin4:latest
+    container_name: challengejr-pgadmin
+    restart: always
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@admin.com
+      PGADMIN_DEFAULT_PASSWORD: admin
+    ports:
+      - "8080:80"
+    depends_on:
+      - postgres
+    networks:
+      - challengejr-network
+
+volumes:
+  postgres_data:
+    driver: local
+
+networks:
+  challengejr-network:
+    driver: bridge
